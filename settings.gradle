@@ -1,0 +1,4 @@
+
+include ':CashLibrary'
+include ':app'
+rootProject.name = "CashDemo"
